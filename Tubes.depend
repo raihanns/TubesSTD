@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1556381944 source:d:\learning\kuliah\1.ii\struktur data\tubes\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1556380720 d:\learning\kuliah\1.ii\struktur data\tubes\tubes\tubes.h
+	<iostream>
+	<stdlib.h>
+
+1556381117 source:d:\learning\kuliah\1.ii\struktur data\tubes\tubes\tubes.cpp
+	"tubes.h"
+
+1556459049 source:c:\users\raihanns\documents\kuliah\std\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1556449544 c:\users\raihanns\documents\kuliah\std\tubes\tubes.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1556430626 source:c:\users\raihanns\documents\kuliah\std\tubes\tubes.cpp
+	"tubes.h"
+
+1556457190 source:c:\users\raihanns\documents\kuliah\std\tubes\programmer.cpp
+	"tubes.h"
+
+1556459474 source:c:\users\raihanns\documents\kuliah\std\tubes\project.cpp
+	"tubes.h"
+
+1556450858 source:c:\users\raihanns\documents\kuliah\std\tubes\relasi.cpp
+	"tubes.h"
+
+1556449465 source:d:\learning\kuliah\1.ii\struktur data\tubes\raihan punya\tubes update\tubes\project.cpp
+	"tubes.h"
+
+1556449543 d:\learning\kuliah\1.ii\struktur data\tubes\raihan punya\tubes update\tubes\tubes.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1556450857 source:d:\learning\kuliah\1.ii\struktur data\tubes\raihan punya\tubes update\tubes\relasi.cpp
+	"tubes.h"
+
+1556450786 source:d:\learning\kuliah\1.ii\struktur data\tubes\raihan punya\tubes update\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1556450663 source:d:\learning\kuliah\1.ii\struktur data\tubes\raihan punya\tubes update\tubes\programmer.cpp
+	"tubes.h"
+
